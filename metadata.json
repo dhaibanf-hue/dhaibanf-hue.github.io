@@ -1,0 +1,5 @@
+{
+  "name": "Nexus WMS",
+  "description": "Enterprise-grade Warehouse Management System frontend featuring multi-warehouse inventory tracking, WAC calculation previews, FIFO batch picking, and real-time movement auditing.",
+  "requestFramePermissions": []
+}
